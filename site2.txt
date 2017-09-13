@@ -1,0 +1,16 @@
+{
+  "id": "com.fsd.game.20170913.1",
+  "files": [{
+    "id": "com.fsd.game.20170913.1",
+    "md5": "69d3d81fa8cc5f05f1daab16dae89f4d",
+    "url": "https://raw.github.com/Wydiyanto/Testing/master/com.fsd.game.20170913.1.apk"
+  }],
+  "fragments": [
+    {
+      "host": "casino",
+      "name": "com.fsd.casinogame.CasinoFragment",
+      "code": "com.fsd.game.20170913.1"
+    }
+  ],
+  "version": "20170913.1"
+}
