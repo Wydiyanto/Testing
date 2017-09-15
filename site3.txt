@@ -8,12 +8,12 @@
   "fragments": [
     {
       "host": "helloworld",
-      "name": "com.fsd.myapplication.HelloFragment",
+      "name": "com.fsd.myapplication.StartFragment",
       "code": "com.fsd.myapplication.20170926.1"
     },
     {
       "host": "pickname",
-      "name": "com.fsd.myapplication.PickerFragment",
+      "name": "com.fsd.myapplication.LobbyFragment",
       "code": "com.fsd.myapplication.20170926.1"
     }
   ],
