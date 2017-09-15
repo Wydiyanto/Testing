@@ -1,16 +1,16 @@
 {
-  "id": "com.fsd.myapplication.20170918.1",
+  "id": "com.fsd.myapplication.20170919.1",
   "files": [{
-    "id": "com.fsd.myapplication.20170918.1",
+    "id": "com.fsd.myapplication.20170919.1",
     "md5": "69d3d81fa8cc5f05f1daab16dae89f4e",
-    "url": "https://raw.github.com/Wydiyanto/Testing/master/com.fsd.myapplication.20170918.1.apk"
+    "url": "https://raw.github.com/Wydiyanto/Testing/master/com.fsd.myapplication.20170919.1.apk"
   }],
   "fragments": [
     {
       "host": "donny",
       "name": "com.fsd.myapplication.StartFragment",
-      "code": "com.fsd.myapplication.20170918.1"
+      "code": "com.fsd.myapplication.20170919.1"
     }
   ],
-  "version": "20170918.1"
+  "version": "20170919.1"
 }
