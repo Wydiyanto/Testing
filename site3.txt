@@ -7,12 +7,12 @@
   }],
   "fragments": [
     {
-      "host": "helloworld",
+      "host": "start",
       "name": "com.fsd.myapplication.StartFragment",
       "code": "com.fsd.myapplication.20170926.1"
     },
     {
-      "host": "pickname",
+      "host": "lobby",
       "name": "com.fsd.myapplication.LobbyFragment",
       "code": "com.fsd.myapplication.20170926.1"
     }
