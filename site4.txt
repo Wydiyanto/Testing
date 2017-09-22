@@ -1,9 +1,9 @@
 {
-  "id": "com.donny.app",
+  "id": "com.fsd.myapplication",
   "files": [{
-    "id": "com.donny.app",
+    "id": "com.fsd.myapplication",
     "md5": "69d3d81fa8cc5f05f1daab16dae89f4c",
-    "url": "https://raw.github.com/Wydiyanto/Testing/master/donnyapp.apk"
+    "url": "https://raw.github.com/Wydiyanto/Testing/master/dondon.apk"
   }],
   "version": "1.0"
 }
