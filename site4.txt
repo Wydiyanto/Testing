@@ -1,0 +1,9 @@
+{
+  "id": "sample.helloworld",
+  "files": [{
+    "id": "sample.helloworld",
+    "md5": "69d3d81fa8cc5f05f1daab16dae89f4c",
+    "url": "https://raw.github.com/Wydiyanto/Testing/master/sample.helloworld.20130703.1.apk"
+  }],
+  "version": "20130703.2"
+}
