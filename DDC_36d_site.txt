@@ -1,9 +1,9 @@
 {
-  "id": "testproject",
+  "id": "testproject2",
   "files": [{
-    "id": "testproject",
+    "id": "testproject2",
     "md5": "69d3d81fa8cc5f05f1daab16dae89f4c",
-    "url": "https://raw.github.com/Wydiyanto/Testing/master/testproject.apk"
+    "url": "https://raw.github.com/Wydiyanto/Testing/master/testproject2.apk"
   }],
-  "version": "1"
+  "version": "2"
 }
