@@ -4,7 +4,7 @@
     "id": "testproject2",
     "md5": "69d3d81fa8cc5f05f1daab16dae89f4c",
     "url": "https://raw.github.com/Wydiyanto/Testing/master/testproject2.apk",
-    "length": 360,
+    "length": "360",
   }],
   "version": "5"
 }
