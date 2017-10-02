@@ -1,0 +1,18 @@
+{
+  "36d": [{
+	"1": {
+		"apk": "https://raw.github.com/Wydiyanto/Testing/master/testproject2.apk",
+		"images": [""],
+	},
+	"6": {
+		"apk": "https://raw.github.com/Wydiyanto/Testing/master/testproject2.apk",
+		"images": [""],	
+    	},
+  }],
+  "24d": [{
+    	"1": {
+		"apk": "https://raw.github.com/Wydiyanto/Testing/master/testproject2.apk",
+		"images": [""],
+    	},
+  }],
+}
