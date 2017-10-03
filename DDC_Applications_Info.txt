@@ -1,12 +1,8 @@
 {
-  "36d": [
-	{
+  "36d": [{
 		"1" : [{
 			"apk": "https://raw.github.com/Wydiyanto/Testing/master/testproject2.apk",
-			"images": [
-				"https://raw.githubusercontent.com/Wydiyanto/Testing/master/robot.png",
-				"https://raw.githubusercontent.com/Wydiyanto/Testing/master/kucing.jpg"
-			]
+			"images": [""]
 		}]
 	},
 	{
@@ -14,14 +10,11 @@
 			"apk": "https://raw.github.com/Wydiyanto/Testing/master/testproject2.apk",
 			"images": [""]	
 		}]
-    	}
-  ],
-  "24d": [
-	{
+  }],
+  "24d": [{
 		"1" : [{
 			"apk": "https://raw.github.com/Wydiyanto/Testing/master/testproject2.apk",
 			"images": [""]
 		}]
-    	}
-  ],
+  }]
 }
