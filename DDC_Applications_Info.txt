@@ -3,7 +3,7 @@
 		"1" : [{
 			"apk": "https://raw.github.com/Wydiyanto/Testing/master/testproject2.apk",
 			"images": [{
-				"0": ""
+				"0": "https://github.com/Wydiyanto/Testing/raw/master/robot.png"
 			}]
 		}]
 	},
@@ -11,7 +11,7 @@
 		"6" : [{
 			"apk": "https://raw.github.com/Wydiyanto/Testing/master/testproject2.apk",
 			"images": [{
-				"0": ""
+				"0": "https://github.com/Wydiyanto/Testing/raw/master/robot.png"
 			}]	
 		}]
   }],
