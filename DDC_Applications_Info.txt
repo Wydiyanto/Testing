@@ -1,6 +1,6 @@
 {
   "36d": [{
-		"8" : [{
+		"1" : [{
 			"apk": "http://ddcc.f0cu588.com/apk/36d.apk",
 			"images": [{
 				"0": "https://github.com/Wydiyanto/Testing/raw/master/pegasus.jpg"
