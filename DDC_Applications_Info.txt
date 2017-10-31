@@ -75,7 +75,7 @@
   }],
   "jd" : [{
 		"1" : [{
-			"apk": "http://ddcc.f0cu588.com/djdealer.apk",
+			"apk": "http://ddcc.f0cu588.com/djhouse.apk",
 			"images": [{
 				"0": ""
 			}]
