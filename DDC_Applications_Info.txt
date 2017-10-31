@@ -58,7 +58,7 @@
   	},
 	{
 		"8" : [{
-			"apk": "https://raw.github.com/Wydiyanto/Testing/master/testproject2.apk",
+			"apk": "http://ddcc.f0cu588.com/apk/36d.apk",
 			"images": [{
 				"0": "https://github.com/Wydiyanto/Testing/raw/master/pegasus.jpg"
 			}]	
@@ -75,7 +75,7 @@
   }],
   "jd" : [{
 		"1" : [{
-			"apk": "http://ddcc.f0cu588.com/djhouse.apk",
+			"apk": "http://ddcc.f0cu588.com/apk/djhouse.apk",
 			"images": [{
 				"0": ""
 			}]
