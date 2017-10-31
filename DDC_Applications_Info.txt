@@ -1,70 +1,12 @@
 {
   "36d": [{
-		"1" : [{
-			"apk": "https://raw.github.com/Wydiyanto/Testing/master/testproject2.apk",
-			"images": [{
-				"0": "https://github.com/Wydiyanto/Testing/raw/master/robot.png"
-			}]
-		}]
-	},
-	{
-		"2" : [{
-			"apk": "https://raw.github.com/Wydiyanto/Testing/master/testproject2.apk",
-			"images": [{
-				"0": "https://github.com/Wydiyanto/Testing/raw/master/kucing.jpg"
-			}]	
-		}]
-  	},
-	{
-		"3" : [{
-			"apk": "https://raw.github.com/Wydiyanto/Testing/master/testproject2.apk",
-			"images": [{
-				"0": "https://github.com/Wydiyanto/Testing/raw/master/kucing.jpg"
-			}]	
-		}]
-  	},
-	{
-		"4" : [{
-			"apk": "https://raw.github.com/Wydiyanto/Testing/master/testproject2.apk",
-			"images": [{
-				"0": "https://github.com/Wydiyanto/Testing/raw/master/kucing.jpg"
-			}]	
-		}]
-  	},
-	{
-		"5" : [{
-			"apk": "https://raw.github.com/Wydiyanto/Testing/master/testproject2.apk",
-			"images": [{
-				"0": "https://github.com/Wydiyanto/Testing/raw/master/kucing.jpg"
-			}]	
-		}]
-  	},
-	{
-		"6" : [{
-			"apk": "https://raw.github.com/Wydiyanto/Testing/master/testproject2.apk",
-			"images": [{
-				"0": "https://github.com/Wydiyanto/Testing/raw/master/dragon.jpg"
-			}]	
-		}]
-  	},
-	{
-		"7" : [{
-			"apk": "https://raw.github.com/Wydiyanto/Testing/master/testproject2.apk",
-			"images": [{
-				"0": "https://github.com/Wydiyanto/Testing/raw/master/unicorn.png",
-				"1": "https://github.com/Wydiyanto/Testing/raw/master/pinix.jpg"
-			}]	
-		}]
-  	},
-	{
 		"8" : [{
 			"apk": "http://ddcc.f0cu588.com/apk/36d.apk",
 			"images": [{
 				"0": "https://github.com/Wydiyanto/Testing/raw/master/pegasus.jpg"
 			}]	
 		}]
-  	}
-  ],
+  }],
   "24d": [{
 		"1" : [{
 			"apk": "https://raw.github.com/Wydiyanto/Testing/master/testproject2.apk",
